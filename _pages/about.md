@@ -46,39 +46,109 @@ He has served as Area Chair, Senior Program Committee Member, or Program Committ
 - Multimodal Understanding and Cognition
 - Multimodal Embodied Intelligence
 - Spatial Intelligence
-- Computer Vision
-- Vision-Language Learning
-- 3D Scene Understanding
+
 
 
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/1.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ECCV 2026</div>
+<img src='images/policytrim.png' alt="PolicyTrim" width="100%">
+</div>
+</div>
 
 <div class='paper-box-text' markdown="1">
 
-**ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation**
+**PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models**
 
-Authors: Yinjie Lei, et al.
+Wang X, Chen F, Zhang W, et al.
 
-**CVPR 2023**
+**European Conference on Computer Vision (ECCV), 2026, pp. 93-110**
 
-[Paper](https://openaccess.thecvf.com/)
+[Paper](#)
+
+- A vision-language-action model optimization framework for improving intrinsic policy efficiency.
 
 </div>
 
 </div>
 
 
-- **Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning**,  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.*
 
-- **PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning**,  
-  *ICCV 2023.*
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">CVPR 2026</div>
+<img src='images/motion_factorization.png' alt="Training-free Motion Factorization" width="100%">
+</div>
+</div>
 
-- **Deeply Understanding Point Clouds by Perturbation Analysis**,  
-  *IEEE Transactions on Image Processing (TIP).*
+<div class='paper-box-text' markdown="1">
+
+**Training-free Motion Factorization for Compositional Video Generation**
+
+Z. Wang, Z. Zhou, F. Chen, D. Peng, Y. Hu, C. Li, and Y. Lei
+
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**
+
+[Paper](#)
+
+</div>
+
+</div>
+
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">CVPR 2023<br>Highlight Paper</div>
+<img src='images/context_alignment.png' alt="Context-aware Alignment" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Context-aware Alignment and Mutual Masking for 3D-Language Pre-training**
+
+Z. Jin, M. Hayat, Y. Yang, Y. Guo, and Y. Lei
+
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023**  
+**Highlight Paper**
+
+[Paper](#)
+
+</div>
+
+</div>
+
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">CVPR 2022<br>Oral Presentation</div>
+<img src='images/semantic_segmentation.png' alt="Semantic-Aware Domain Generalized Segmentation" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Semantic-Aware Domain Generalized Segmentation**
+
+D. Peng, Y. Lei, M. Hayat, Y. Guo, and W. Li
+
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022**  
+**Oral Presentation**
+
+[Paper](#)
+
+</div>
+
+</div>
 
 
 # 🎖 Honors and Awards
