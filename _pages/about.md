@@ -22,12 +22,23 @@ As the principal investigator, he has led and participated in more than 40 resea
 
 He has served as Area Chair, Senior Program Committee Member, or Program Committee Member for major international conferences, including NeurIPS, CVPR, ICCV, ECCV, AAAI, and ACM MM. He is also an Associate Editor of *Pattern Recognition*.
 
+# 🎓 Academic Service
+
+- Associate Editor of *Pattern Recognition*.
+
+- Area Chair for **ACM Multimedia, WACV, and AAAI**.
+
+- Senior Program Committee Member / Program Committee Member for **CVPR, ICCV, NeurIPS, AAAI, and ACM Multimedia**.
+
+- Reviewer for leading international journals and conferences, including **IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, CVPR, ICCV, NeurIPS, ICML, AAAI, and ACM Multimedia**.
 
 # 🔥 News
 
-- **2026.01**: Joined Sichuan University as Professor at the School of Artificial Intelligence.
-- **2025**: Research achievements published in leading computer vision journals and conferences.
-- **2024**: Served as Area Chair and reviewer for multiple international conferences.
+- **2026**: Our paper **"Training-Free Motion Factorization for Compositional Video Generation"** has been accepted by **CVPR 2026**.
+
+- **2026**: Our paper **"Chain of Event-Centric Causal Thought for Physically Plausible Video Generation"** has been accepted by **CVPR 2026**.
+
+- **2026**: Our paper **"PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis"** has been accepted by **CVPR 2026** as a **Highlight Paper**.
 
 
 # 🔬 Research Interests

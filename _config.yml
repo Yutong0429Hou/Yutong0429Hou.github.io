@@ -16,10 +16,9 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Yinjie Lei"
   avatar           : "images/yinjie.png"
-  bio              : "Professor | Computer Vision | Multimodal Intelligence | Embodied AI"
+  bio              : "Professor"
   location         : "Chengdu, China"
   employer         : "Sichuan University"
-
   email            : "yinjie@scu.edu.cn"
 
   googlescholar    : 
