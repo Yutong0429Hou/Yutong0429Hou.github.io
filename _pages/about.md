@@ -14,13 +14,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Professor Yinjie Lei is a Professor and Ph.D. supervisor at the School of Artificial Intelligence, Sichuan University.
+Yinjie Lei is a Professor and Ph.D. supervisor at the School of Artificial Intelligence, Sichuan University. His research mainly focuses on computer vision, including multimodal perception and cognition, multimodal embodied intelligence, and spatial intelligence.
 
-His research interests focus on computer vision, multimodal understanding and cognition, multimodal embodied intelligence, and spatial intelligence. His research aims to develop intelligent systems with advanced perception, reasoning, and interaction capabilities.
+He has published nearly 100 research papers in leading international conferences and journals, including CVPR, ICCV, ECCV, TPAMI, IJCV, and TIP. He has also filed more than 30 patents. His research achievements have been recognized in the computer vision community through publications in top-tier venues.
 
-He has published more than 60 papers in leading international journals and conferences, including IEEE TPAMI, IEEE TIP, CVPR, ICCV, ECCV, AAAI, ACM MM, and IJCV. His research achievements have received recognition through publications in top-tier computer vision venues.
+As the principal investigator, he has led and participated in more than 40 research projects at the national, provincial, and industrial levels, including projects supported by the National Natural Science Foundation of China (NSFC), National Key Research and Development Program, National Defense Science and Technology Innovation Program, and Sichuan Province Key Research Programs.
 
-He has led and participated in multiple national and provincial research projects, including projects supported by the National Natural Science Foundation of China (NSFC). He currently serves as an Associate Editor of *Pattern Recognition* and as a reviewer/program committee member for major international conferences including CVPR, ICCV, ECCV, AAAI, and ACM MM.
+He has served as Area Chair, Senior Program Committee Member, or Program Committee Member for major international conferences, including NeurIPS, CVPR, ICCV, ECCV, AAAI, and ACM MM. He is also an Associate Editor of *Pattern Recognition*.
 
 
 # 🔥 News
