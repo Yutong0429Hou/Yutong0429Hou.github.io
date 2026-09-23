@@ -1,59 +1,103 @@
 ---
 permalink: /
+
 title: ""
+
 excerpt: ""
+
 author_profile: true
-redirect_from: 
+
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student in Information and Communication Engineering at Sichuan University.
-My research interests include computer vision, multimodal learning, and embodied artificial intelligence. My current research focuses on deep learning-based cultural heritage image restoration and intelligent perception systems.
+Professor Yinjie Lei is a Professor and Ph.D. supervisor at the School of Artificial Intelligence, Sichuan University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interests focus on computer vision, multimodal understanding and cognition, multimodal embodied intelligence, and spatial intelligence. His research aims to develop intelligent systems with advanced perception, reasoning, and interaction capabilities.
+
+He has published more than 60 papers in leading international journals and conferences, including IEEE TPAMI, IEEE TIP, CVPR, ICCV, ECCV, AAAI, ACM MM, and IJCV. His research achievements have received recognition through publications in top-tier computer vision venues.
+
+He has led and participated in multiple national and provincial research projects, including projects supported by the National Natural Science Foundation of China (NSFC). He currently serves as an Associate Editor of *Pattern Recognition* and as a reviewer/program committee member for major international conferences including CVPR, ICCV, ECCV, AAAI, and ACM MM.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- **2026.01**: Joined Sichuan University as Professor at the School of Artificial Intelligence.
+- **2025**: Research achievements published in leading computer vision journals and conferences.
+- **2024**: Served as Area Chair and reviewer for multiple international conferences.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+
+# 🔬 Research Interests
+
+- Multimodal Understanding and Cognition
+- Multimodal Embodied Intelligence
+- Spatial Intelligence
+- Computer Vision
+- Vision-Language Learning
+- 3D Scene Understanding
+
+
+# 📝 Publications
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/1.png' alt="paper" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Authors: Yinjie Lei, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**CVPR 2023**
+
+[Paper](https://openaccess.thecvf.com/)
+
 </div>
+
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- **Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning**,  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.*
+
+- **PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning**,  
+  *ICCV 2023.*
+
+- **Deeply Understanding Point Clouds by Perturbation Analysis**,  
+  *IEEE Transactions on Image Processing (TIP).*
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- National-level Young Talent Program.
+- Sichuan Province Distinguished Young Scholar Program.
+- Sichuan Province Thousand Talents Program.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Education
+
+- **2013 - 2016**  
+Ph.D., Information and Communication Engineering, University of Western Australia, Australia.
+
+- **2009 - 2013**  
+M.S., Sichuan University, China.
+
+- **2006 - 2009**  
+B.S., Southwest Jiaotong University, China.
+
+
+# 💬 Academic Service
+
+- Associate Editor, *Pattern Recognition*.
+
+- Area Chair / Senior Program Committee Member for international conferences including CVPR, ICCV, ECCV, AAAI, and ACM MM.
+
+- Reviewer for major international journals and conferences in computer vision and artificial intelligence.
+
+
+# 👥 Students
+
+Information about current students and research members will be updated soon.

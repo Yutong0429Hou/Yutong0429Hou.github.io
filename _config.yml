@@ -6,57 +6,27 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yutong Hou"
-description              : "Yutong Hou is a graduate student in Information and Communication Engineering. His research interests include computer vision, multimodal learning, and embodied artificial intelligence. "
+title                    : "Yinjie Lei"
+description              : "Yinjie Lei is a Professor at the School of Artificial Intelligence, Sichuan University. His research interests include multimodal understanding and cognition, multimodal embodied intelligence, and spatial intelligence."
 repository               : "Yutong0429Hou/Yutong0429Hou.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Yutong Hou"
-  avatar           : "images/hyt.jpg"
-  bio              : "| Computer Vision | Multimodal Learning | Embodied AI"
+  name             : "Yinjie Lei"
+  avatar           : "images/yinjie.png"
+  bio              : "Professor | Multimodal Intelligence | Embodied AI | Computer Vision"
   location         : "Chengdu, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  employer         : "School of Artificial Intelligence, Sichuan University"
+
+  email            : "yinjie@scu.edu.cn"
+
+  googlescholar    : 
+  github           :
+  linkedin         :
+  dblp             :
+  orcid            :
 
 
 # Reading Files
