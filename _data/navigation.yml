@@ -1,19 +1,10 @@
 main:
 
-  - title: "Homepage"
+  - title: "Home"
     url: "/"
-
-  - title: "Research"
-    url: "/#research"
 
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Projects"
-    url: "/#projects"
-
-  - title: "Students"
-    url: "/#students"
-
-  - title: "Academic Service"
-    url: "/#service"
+  - title: "Research"
+    url: "/#research"
