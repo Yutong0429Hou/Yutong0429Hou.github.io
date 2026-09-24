@@ -151,34 +151,3 @@ D. Peng, Y. Lei, M. Hayat, Y. Guo, and W. Li
 </div>
 
 
-# 🎖 Honors and Awards
-
-- National-level Young Talent Program.
-- Sichuan Province Distinguished Young Scholar Program.
-- Sichuan Province Thousand Talents Program.
-
-
-# 📖 Education
-
-- **2013 - 2016**  
-Ph.D., Information and Communication Engineering, University of Western Australia, Australia.
-
-- **2009 - 2013**  
-M.S., Sichuan University, China.
-
-- **2006 - 2009**  
-B.S., Southwest Jiaotong University, China.
-
-
-# 💬 Academic Service
-
-- Associate Editor, *Pattern Recognition*.
-
-- Area Chair / Senior Program Committee Member for international conferences including CVPR, ICCV, ECCV, AAAI, and ACM MM.
-
-- Reviewer for major international journals and conferences in computer vision and artificial intelligence.
-
-
-# 👥 Students
-
-Information about current students and research members will be updated soon.
