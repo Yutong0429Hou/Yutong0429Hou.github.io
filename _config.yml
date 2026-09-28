@@ -16,9 +16,9 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Yinjie Lei"
   avatar           : "images/yinjie.png"
-  bio              : "Professor"
-  location         : "Chengdu, China"
-  employer         : "Sichuan University"
+  bio              : 
+  location         : 
+  employer         : 
   email            : "yinjie@scu.edu.cn"
   googlescholar    : 
   github           :

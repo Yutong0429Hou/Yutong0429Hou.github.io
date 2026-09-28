@@ -9,72 +9,77 @@ author_profile: true
 
 ## 2026
 
-- Z. Wang, Z. Zhou, F. Chen, D. Peng, Y. Hu, C. Li, and **Y. Lei**,  
-  "Training-free Motion Factorization for Compositional Video Generation,"  
+- X. Wang, F. Chen, W. Zhang, et al.,
+  "PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models,"
+  *European Conference on Computer Vision (ECCV), 2026, pp. 93–110.*
+
+- Z. Wang, Z. Zhou, F. Chen, D. Peng, Y. Hu, C. Li, and **Y. Lei**,
+  "Training-free Motion Factorization for Compositional Video Generation,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
 
-- Z. Wang, Y. Hu, H. Wang, F. Chen, Y. Liu, W. Li, and **Y. Lei**,  
-  "Chain of Event-Centric Causal Thought for Physically Plausible Video Generation,"  
+- Z. Wang, Y. Hu, H. Wang, F. Chen, Y. Liu, W. Li, and **Y. Lei**,
+  "Chain of Event-Centric Causal Thought for Physically Plausible Video Generation,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
 
-- C. Lv, Z. Chen, D. Di, W. Zhang, H. Li, W. Chen, **Y. Lei**, and C. Li,  
-  "PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis,"  
-  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*  
-  (**Highlight Paper**)
+- C. Lv, Z. Chen, D. Di, W. Zhang, H. Li, W. Chen, **Y. Lei**, and C. Li,
+  "PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis,"
+  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
+  **(Highlight Paper)**
 
-- H. Wu, Y. Liu, **Y. Lei**, L. Duan, and W. Li,  
-  "Dynamic Logits Adjustment and Exploration for Test-Time Adaptation in Vision Language Models,"  
+- H. Wu, Y. Liu, **Y. Lei**, L. Duan, and W. Li,
+  "Dynamic Logits Adjustment and Exploration for Test-Time Adaptation in Vision Language Models,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
 
-- C. Lin, J. Deng, **Y. Lei**, and W. Li,  
-  "Deformation-based In-Context Learning for Point Cloud Understanding,"  
+- C. Lin, J. Deng, **Y. Lei**, and W. Li,
+  "Deformation-based In-Context Learning for Point Cloud Understanding,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
 
-- H. Jiang, Z. Liu, **Y. Lei**, S. Han, B. Zeng, and S. Liu,  
-  "ZeroDIR: Zero-Reference Illumination Degradation Image Restoration with Perturbed Consistency Diffusion Models,"  
+- H. Jiang, Z. Liu, **Y. Lei**, S. Han, B. Zeng, and S. Liu,
+  "ZeroIDIR: Zero-Reference Illumination Degradation Image Restoration with Perturbed Consistency Diffusion Models,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
 
-- J. Deng, **Y. Lei**, W. Li, and L. Duan,  
-  "ROOT: Region-Word Alignment With Partial Optimal Transport for Open-Vocabulary Object Detection,"  
-  *IEEE Transactions on Image Processing (TIP), 2026.*
+- J. Deng, **Y. Lei**, W. Li, and L. Duan,
+  "ROOT: Region-Word Alignment With Partial Optimal Transport for Open-Vocabulary Object Detection,"
+  *IEEE Transactions on Image Processing (TIP), 35: 2543–2554, 2026.*
 
 
 ## 2025
 
-- H. Zhi, P. Chen, J. Li, S. Ma, X. Sun, T. Xiang, **Y. Lei**, M. Tan, and C. Gan,  
-  "LSCENeLL: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preference,"  
+- H. Zhi, P. Chen, J. Li, S. Ma, X. Sun, T. Xiang, **Y. Lei**, M. Tan, and C. Gan,
+  "LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.*
 
-- Z. Wang, D. Peng, F. Chen, Y. Yang, and **Y. Lei**,  
-  "Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis,"  
+- Z. Wang, D. Peng, F. Chen, Y. Yang, and **Y. Lei**,
+  "Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.*
 
 
 ## 2024
 
-- S. Chen, H. Zhu, M. Li, X. Chen, P. Guo, **Y. Lei**, G. Yu, T. Li, and T. Chen,  
-  "Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning,"  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.*
+- S. Chen, H. Zhu, M. Li, X. Chen, P. Guo, **Y. Lei**, G. Yu, T. Li, and T. Chen,
+  "Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning,"
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 46(11): 7331–7347, 2024.*
 
-- D. Peng, Q. Ke, A. Ambikapathi, Y. Yao, **Y. Lei**, and J. Liu,  
-  "Unsupervised Domain Adaptation via Domain-Adaptive Diffusion,"  
+- D. Peng, Q. Ke, A. Ambikapathi, Y. Yazici, **Y. Lei**, and J. Liu,
+  "Unsupervised Domain Adaptation via Domain-Adaptive Diffusion,"
   *IEEE Transactions on Image Processing (TIP), 2024.*
 
-- M. Chen, L. Wang, **Y. Lei**, Z. Dong, and Y. Guo,  
-  "Learning Spherical Radiance Field for Efficient 360-degree Unbounded Novel View Synthesis,"  
+- M. Chen, L. Wang, **Y. Lei**, Z. Dong, and Y. Guo,
+  "Learning Spherical Radiance Field for Efficient 360-degree Unbounded Novel View Synthesis,"
   *IEEE Transactions on Image Processing (TIP), 2024.*
 
-- Y. Zhang, H. Luo, and **Y. Lei**,  
-  "Towards CLIP-driven Language-Free Visual Grounding via 3D Visual Enhancement and Consistency,"  
+- Y. Zhang, H. Luo, and **Y. Lei**,
+  "Towards CLIP-driven Language-free 3D Visual Grounding via 2D-3D Relational Enhancement and Consistency,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
-- L. Chen, X. Tian, S. Xiong, **Y. Lei**, and C. Ren,  
-  "Unsupervised Blind Image Deblurring Based on Self-Enhancement,"  
+- L. Chen, X. Tian, S. Xiong, **Y. Lei**, and C. Ren,
+  "Unsupervised Blind Image Deblurring Based on Self-Enhancement,"
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
-- Z. Lu, Y. Pei, G. Wang, P. Li, Y. Yang, **Y. Lei**, and H. Shen,  
-  "ScanERU: Interactive 3D Visual Grounding Based on Embodied Referent Understanding,"  
+- Z. Lu, Y. Pei, G. Wang, P. Li, Y. Yang, **Y. Lei**, and H. Shen,
+  "ScanERU: Interactive 3D Visual Grounding Based on Embodied Reference Understanding,"
   *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.*
+
 
 ## 2023
 
@@ -128,7 +133,7 @@ author_profile: true
 
 - P. Zhang, W. Liu, **Y. Lei**, H. Wang, and H. Lu,
   "Looking for the Detail and Context Devils: High-Resolution Salient Object Detection,"
-  *IEEE Transactions on Image Processing (TIP), 30: 3204-3216, 2021.*
+  *IEEE Transactions on Image Processing (TIP), 30: 3204–3216, 2021.*
 
 - D. Peng, **Y. Lei**, L. Liu, P. Zhang, and J. Liu,
   "Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation,"
@@ -136,7 +141,7 @@ author_profile: true
 
 - **Y. Lei**, D. Peng, P. Zhang, Q. Ke, and H. Li,
   "Hierarchical Paired Channel Fusion Network for Street Scene Change Detection,"
-  *IEEE Transactions on Image Processing (TIP), 30: 55-67, 2021.*
+  *IEEE Transactions on Image Processing (TIP), 30: 55–67, 2021.*
 
 - D. Peng, **Y. Lei**, W. Li, P. Zhang, and Y. Guo,
   "Sparse-to-Dense Feature Matching: Intra- and Inter-Domain Cross-Modal Learning in Domain Adaptation for 3D Semantic Segmentation,"
@@ -147,11 +152,11 @@ author_profile: true
 
 - P. Zhang, W. Liu, **Y. Lei**, H. Wang, and H. Lu,
   "RAPNet: Residual Atrous Pyramid Network for Importance-Aware Street Scene Parsing,"
-  *IEEE Transactions on Image Processing (TIP), 29: 5010-5021, 2020.*
+  *IEEE Transactions on Image Processing (TIP), 29: 5010–5021, 2020.*
 
 - P. Zhang, W. Liu, **Y. Lei**, H. Wang, and H. Lu,
   "Deep Multiphase Level Set for Scene Parsing,"
-  *IEEE Transactions on Image Processing (TIP), 29: 4556-4567, 2020.*
+  *IEEE Transactions on Image Processing (TIP), 29: 4556–4567, 2020.*
 
 - W. Liu, P. Zhang, **Y. Lei**, X. Huang, J. Yang, and I. D. Reid,
   "A Generalized Framework for Edge-Preserving and Structure-Preserving Image Smoothing,"
