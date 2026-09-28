@@ -14,13 +14,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yinjie Lei is a Professor and Ph.D. supervisor at the School of Artificial Intelligence, Sichuan University. His research mainly focuses on computer vision, including multimodal perception and cognition, multimodal embodied intelligence, and spatial intelligence.
+# Prof. Yinjie Lei
 
-He has published nearly 100 research papers in leading international conferences and journals, including CVPR, ICCV, ECCV, TPAMI, IJCV, and TIP. He has also filed more than 30 patents. His research achievements have been recognized in the computer vision community through publications in top-tier venues.
-
-As the principal investigator, he has led and participated in more than 40 research projects at the national, provincial, and industrial levels, including projects supported by the National Natural Science Foundation of China (NSFC), National Key Research and Development Program, National Defense Science and Technology Innovation Program, and Sichuan Province Key Research Programs.
-
-He has served as Area Chair, Senior Program Committee Member, or Program Committee Member for major international conferences, including NeurIPS, CVPR, ICCV, ECCV, AAAI, and ACM MM. He is also an Associate Editor of *Pattern Recognition*.
+**Yinjie Lei** is a Professor and Ph.D. supervisor at the School of Artificial Intelligence, Sichuan University. His research mainly focuses on computer vision, including multimodal perception and cognition, multimodal embodied intelligence, and spatial intelligence. He has published extensively in leading international journals and conferences, including CVPR, ICCV, ECCV, TPAMI, IJCV, and TIP.
 
 # 🎓 Academic Service
 
