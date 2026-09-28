@@ -14,7 +14,7 @@ google_scholar_stats_use_cdn : false
 # Site Author
 author:
   name             : "Yinjie Lei"
-  avatar           : "images/yinjie.png"
+  avatar           : "/images/yinjie.png"
   bio              : 
   location         : 
   employer         : 
