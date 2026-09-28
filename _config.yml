@@ -7,19 +7,21 @@
 
 # Site Settings
 title                    : "Yinjie Lei"
-description              : 
+description              : "Academic homepage of Prof. Yinjie Lei, Sichuan University."
+url                      : "https://yutong0429hou.github.io"
+baseurl                  : ""
+repository               : "Yutong0429Hou/Yutong0429Hou.github.io"
 google_scholar_stats_use_cdn : false
-
 
 # Site Author
 author:
   name             : "Yinjie Lei"
   avatar           : "/images/yinjie.png"
-  bio              : 
-  location         : 
-  employer         : 
+  bio              :
+  location         :
+  employer         :
   email            : "yinjie@scu.edu.cn"
-  googlescholar    : 
+  googlescholar    :
   github           :
   linkedin         :
   dblp             :
