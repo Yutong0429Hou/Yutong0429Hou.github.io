@@ -22,8 +22,6 @@ redirect_from:
 
 # News
 
-# News
-
 - **[Publications]: Jun. 17, 2026**, one paper was accepted by the European Conference on Computer Vision (**ECCV 2026**).
 
 - **[Publications]: Feb. 20, 2026**, six papers were accepted by the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026**), including one **Highlight Paper**.
