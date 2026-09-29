@@ -6,14 +6,51 @@ author_profile: true
 
 # Research Interests
 
-- Multimodal Understanding and Cognition
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/multimodal_understanding.png' alt='Multimodal Understanding and Cognition' width='100%'>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-- Multimodal Embodied Intelligence
+**Multimodal Understanding and Cognition**
 
-- Spatial Intelligence
+Research on multimodal representation learning, multimodal reasoning, and cross-modal understanding.
 
+  </div>
+</div>
 
-# Academic Service
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/multimodal_embodied.png' alt='Multimodal Embodied Intelligence' width='100%'>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Multimodal Embodied Intelligence**
+
+Research on embodied perception, action, decision-making, and vision-language-action models.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/spatial_intelligence.png' alt='Spatial Intelligence' width='100%'>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Spatial Intelligence**
+
+Research on 3D scene understanding, spatial reasoning, and intelligent perception in complex environments.
+
+  </div>
+</div>
+
 
 # Academic Service
 
